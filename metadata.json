@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Home Workout",
+  "description": "The complete home workout and weight loss tracker for men. Set up your 30-day personalized fitness plan, track calories, custom routines, and weight loss progress without any equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
